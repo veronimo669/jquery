@@ -57,7 +57,7 @@ The scanner will:
 
 📊 What You'll See
 Console Output Example
-text
+
 
 ℹ️ ═══════════════════════════════════════════════════════════════════
 ℹ️ PHASE 1: LIBRARY DETECTION
@@ -111,9 +111,6 @@ console.log(window.jQueryScannerResults.exploited);
 
 🛠️ Configuration Options
 
-You can modify these settings at the top of the script:
-javascript
-
 const CONFIG = {
     verbose: true,        // Show detailed console output
     autoExploit: true,    // Automatically attempt exploitation
@@ -123,7 +120,7 @@ const CONFIG = {
 };
 
 📁 Output Data Structure
-json
+
 
 {
   "scanTime": "2026-05-25T10:30:00.000Z",
@@ -183,13 +180,6 @@ MIT License — Free for security testing on authorized targets.
 
     CVE MITRE Corporation
 
-🔗 Quick Links
-
-    Copy Script
-
-    Report Issues
-
-    CVE Database
 
 🚀 Ready to use? Copy the script and paste it into your browser console!
 
