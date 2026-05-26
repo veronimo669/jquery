@@ -98,7 +98,6 @@ A floating panel will appear on the bottom-left corner of the page showing:
 Stored Results
 
 All results are saved to window.jQueryScannerResults:
-javascript
 
 // Access the complete report
 console.log(window.jQueryScannerResults);
